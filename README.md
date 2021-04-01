@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @amirmazinani
+- 👀 I’m interested in Blockchain
+- 🌱 I’m currently learning Master of Computer
+- 💞️ I’m looking to collaborate on Ui/Frontend Developing
+- 📫 My email: info.mazinani@gmail.com
